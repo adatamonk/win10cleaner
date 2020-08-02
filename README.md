@@ -4,7 +4,7 @@ This is the Ultimate Windows 10 Script from a creation from multiple debloat scr
 ## Run
 
 ```
-powershell -nop -c "iex(New-Object Net.WebClient).DownloadString('https://git.io/JJEb1')"
+powershell -nop -c "iex(New-Object Net.WebClient).DownloadString('https://git.io/JJVrC')"
 ```
 
 ## My Additions
